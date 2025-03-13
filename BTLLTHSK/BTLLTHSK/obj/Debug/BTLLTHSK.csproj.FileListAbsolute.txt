@@ -1,0 +1,12 @@
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\bin\Debug\BTLLTHSK.exe.config
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\bin\Debug\BTLLTHSK.exe
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\bin\Debug\BTLLTHSK.pdb
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.csproj.AssemblyReference.cache
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.Form1.resources
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.Form2.resources
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.Form3.resources
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.Properties.Resources.resources
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.csproj.GenerateResource.cache
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.csproj.CoreCompileInputs.cache
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.exe
+C:\Users\HAI DANG\source\repos\BTLLTHSK\BTLLTHSK\obj\Debug\BTLLTHSK.pdb
